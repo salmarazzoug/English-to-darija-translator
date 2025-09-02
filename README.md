@@ -26,9 +26,7 @@ mvnw                  # Maven wrapper script
 mvnw\.cmd              # Windows Maven wrapper script
 pom.xml               # Maven project configuration
 
-````
 
----
 
 ## Web Service Implementation
 
