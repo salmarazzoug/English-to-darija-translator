@@ -79,7 +79,7 @@ git clone https://github.com/salmarazzoug/English-to-darija-translator.git
 ./mvnw spring-boot:run
 ```
 
-4. Open the mobile application project in your preferred IDE (e.g., Android Studio) and run it on an emulator or device.
+4. Open the mobile application project in your preferred IDE (e.g., Android Studio or phone) and run it on an emulator or device.
 
 ---
 
