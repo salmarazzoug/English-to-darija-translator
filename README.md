@@ -10,7 +10,7 @@ The translation functionality can be implemented using LLMs such as [Google Gemi
 
 Additionally, this project includes a **mobile application** that consumes the RESTful web service to provide translations on mobile devices.
 
----
+
 
 
 ```
