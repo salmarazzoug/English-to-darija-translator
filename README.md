@@ -12,9 +12,9 @@ Additionally, this project includes a **mobile application** that consumes the R
 
 ---
 
-## Project Structure
 
 ```
+## Project Structure
 
 .mvn/wrapper/         # Maven wrapper files
 src/main/             # Java source code for the web service
