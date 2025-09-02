@@ -64,7 +64,7 @@ The mobile app connects to the RESTful service and allows users to:
 1. Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/salmarazzoug/English-to-darija-translator.git
 ```
 
 2. Build the project with Maven:
